@@ -3,4 +3,4 @@ clean:
 
 build: clean
 	@tsc  -p tsconfig-cjs.json
-	@tsc  -p tsconfig-mjs.json
+	@tsc  -p tsconfig.json
